@@ -3,7 +3,7 @@
 
 
   * @file    SCCB.C
-  * @author  管成功、张浩宇
+  * @author  
   * @version V1.0
   * @date    2017.1.16
   * @brief   河北工程大学创新实验室
